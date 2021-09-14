@@ -1,0 +1,24 @@
+{
+  "description": "Selection from the top 200 most popular palettes on colourlovers.com",
+  "palettes": [
+    ["#69D2E7","#A7DBD8","#E0E4CC","#F38630","#FA6900"],
+    ["#3FB8AF","#7FC7AF","#DAD8A7","#FF9E9D","#FF3D7F"],
+    ["#343838","#005F6B","#008C9E","#00B4CC","#00DFFC"],
+    ["#FF4E50","#FC913A","#F9D423","#EDE574","#E1F5C4"],
+    ["#FF9900","#424242","#E9E9E9","#BCBCBC","#3299BB"],
+    ["#EEE6AB","#C5BC8E","#696758","#45484B","#36393B"],
+    ["#A3A948","#EDB92E","#F85931","#CE1836","#009989"],
+    ["#515151","#FFFFFF","#00B4FF","#EEEEEE"],
+    ["#FCFEF5","#E9FFE1","#CDCFB7","#D6E6C3","#FAFBE3"],
+    ["#30261C","#403831","#36544F","#1F5F61","#0B8185"],
+    ["#AAFF00","#FFAA00","#FF00AA","#AA00FF","#00AAFF"],
+    ["#F6F6F6","#E8E8E8","#333333","#990100","#B90504"],
+    ["#E4DED0","#ABCCBD","#7DBEB8","#181619","#E32F21"],
+    ["#2B222C","#5E4352","#965D62","#C7956D","#F2D974"],
+    ["#EB9C4D","#F2D680","#F3FFCF","#BAC9A9","#697060"],
+    ["#44749D","#C6D4E1","#FFFFFF","#EBE7E0","#BDB8AD"],
+    ["#F6D76B","#FF9036","#D6254D","#FF5475","#FDEBA9"],
+    ["#E7EDEA","#FFC52C","#FB0C06","#030D4F","#CEECEF"],
+    ["#8D7966","#A8A39D","#D8C8B8","#E2DDD9","#F8F1E9"]
+  ]
+}
